@@ -7,7 +7,7 @@ Creating Awareness: They help individuals become more mindful of their eating ha
 Supporting Weight Management: These tools provide precise data on calorie consumption, helping users maintain a caloric deficit or balance based on their goals, such as weight loss or muscle gain.
 Enhancing Nutritional Balance: By monitoring macronutrient and micronutrient intake, calorie trackers help users ensure their diet aligns with their nutritional needs.
 Identifying Patterns and Triggers: Regular tracking highlights eating patterns and triggers (e.g., stress or boredom), enabling better behavioral adjustments.
-Motivating Progress: Visualizing progress through data can motivate users to continue making healthier choices over time【10】【11】【12】.
+Motivating Progress: Visualizing progress through data can motivate users to continue making healthier choices over time.
 Analysis of the Provided Code for Calorie Tracking
 The provided Python-based calorie tracker addresses basic functionality for tracking food and calories, with the following features:
 
