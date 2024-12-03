@@ -3,7 +3,7 @@ import pandas as pd
 # Load or create a food database
 try:
     # Attempt to load existing food data
-    food_df = pd.read_csv('food_data.csv')
+    food_df = pd.read_csv('calories.csv')
 except FileNotFoundError:
     # If the file doesn't exist, create a default database
     data = {
