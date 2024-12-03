@@ -1,9 +1,13 @@
 import pandas as pd
+import csv
 
 # Load or create a food database
 try:
     # Attempt to load existing food data
-    food_df = pd.read_csv('calories.csv')
+    with open('Calories.csv.xls', mode ='r')as file:
+          csvFile = csv.reader(file)
+          for lines in csvFile:
+              food_df=csvFile
 except FileNotFoundError:
     # If the file doesn't exist, create a default database
     data = {
@@ -11,7 +15,7 @@ except FileNotFoundError:
         "Calories_per_100g": [52, 89, 130, 165, 208, 265]
     }
     food_df = pd.DataFrame(data)
-    food_df.to_csv('food_data.csv', index=False)
+    food_df.to_csv('calories.csv', index=False)
 
 def log_meal():
     """
