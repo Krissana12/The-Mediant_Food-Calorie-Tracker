@@ -50,3 +50,6 @@ Hetvi Gajjar collected Dataset.
 Priyanshi Thakor made the plots according to the project.
 
 Sanchita Girgilani conducted research and usage of a sample calorie tracker to take as reference.
+
+Maun Patel made the plots and did backend coding
+
