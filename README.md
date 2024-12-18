@@ -27,16 +27,14 @@ Strengths:
 
 Simplicity: Ideal for quick calorie logging.
 Persistence: Allows users to save and revisit their data.
+We are moving forward to integrate Automation and User Recommendations system.
+
 
 
 Limitations:
 
 User Experience: The CLI-based design may not appeal to all users compared to modern graphical or mobile interfaces.
 No Nutritional Analysis: While it tracks calories, it doesn't account for macronutrients (carbs, fats, proteins) or micronutrients, which are essential for a complete nutritional overview.
-
-Lack of Automation: Features like barcode scanning or integration with food databases, commonly found in apps like MyFitnessPal, are missing.
-
-Insights and Recommendations: The code doesn't provide actionable insights, such as suggesting healthier alternatives or identifying patterns over time.
 
 Efficiency as a Calorie Tracker
 The code provides a foundational calorie-tracking system, suitable for users seeking a simple, manual solution. However, for broader usability and functionality, enhancements like a graphical interface, integration with nutrition databases, and advanced analytics would significantly improve its efficiency and adoption potential.
