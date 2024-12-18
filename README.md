@@ -14,11 +14,11 @@ Identifying Patterns and Triggers: Regular tracking highlights eating patterns a
 Motivating Progress: Visualizing progress through data can motivate users to continue making healthier choices over time.
 Analysis of the Provided Code for Calorie Tracking
 
-#Libraries Used:
+Libraries Used:
 
 Libraries.csv.xls from Kaggle.com
 
-#Technical Part:
+Technical Part:
 
 
 The provided Python-based calorie tracker addresses basic functionality for tracking food and calories, with the following features:
